@@ -3,7 +3,7 @@
 <p align="center"> This repo will contain different kinds of 404 pages with great styles you can start use them where ever you want :fire:</p>
 
 
-# Examples
+## Examples
 
 https://user-images.githubusercontent.com/47687479/198289755-417676b3-1ec3-4717-9b58-dd2c7b95d3c2.mp4
 
