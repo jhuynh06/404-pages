@@ -9,7 +9,9 @@ const Card = ({ title, children }: Props) => (
     <div className="flex justify-between items-center">
       <div className="font-bold">{title}</div>
       <div className="bg-gray-200 rounded py-1 px-3" title="code">
-        <a href="https://github.com/ahmed-sudani/404-pages/tree/master/src/components/keyboard.jsx">
+        <a
+          href={`https://github.com/ahmed-sudani/404-pages/blob/master/src/components/${title}/index.tsx`}
+        >
           {"</>"}
         </a>
       </div>
