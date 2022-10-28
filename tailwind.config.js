@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     fontFamily: {
       Electrolize: ["Electrolize", "sans-serif"],
+      "Jolly-Lodger": ["Jolly Lodger", "cursive"],
     },
     extend: {
       skew: {
