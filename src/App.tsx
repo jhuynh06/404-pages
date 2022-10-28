@@ -7,7 +7,7 @@ function App() {
     <>
       <Nav />
       <div className="flex gap-2 justify-evenly flex-wrap mt-2 ">
-        <Card title="KeyBoard">
+        <Card title="keyboard">
           <Keyboard />
         </Card>
       </div>
